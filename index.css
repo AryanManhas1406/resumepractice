@@ -1,0 +1,68 @@
+*{
+    margin :0;
+    padding:0;
+}
+body{
+  display:flex;
+}
+.photo{  background-color:rgb(71, 200, 239);
+  width:210px;
+  height:300px;
+ padding-left: 100px;  padding-right:50px;
+ 
+  
+    
+  
+
+  color: white;
+   
+   
+}
+.photo img{
+    height:130px;
+    width:130px;
+ margin-top:40px;
+  border-radius:100px ;
+}
+.personal{
+  width:210px;
+  height:600px;
+ padding-left: 100px;
+ padding-right:50px;
+  
+  background-color:rgb(54, 52, 52);
+  color:white;
+  padding-top: 10px;
+  
+ 
+}
+.content h1{
+  margin:20px;
+  
+}
+.content hr{
+  height:2px;
+  width:200px;
+   
+   background-color:white;}
+
+
+.content h3{
+  margin:15px;
+}
+h4{
+  margin:10px;
+}
+.section{
+  background-color:white;
+  
+  
+}
+.iiird{
+  height:910px;
+  padding:30px;
+ 
+  background-color: whitesmoke;
+
+  
+}
